@@ -17,7 +17,3 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Arush Shaleen Mathur</h1>
 <h3 align="center">Student in the Computer Science and Engineering department at the Indian Institute of Technology Guwahati (IITG)</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
